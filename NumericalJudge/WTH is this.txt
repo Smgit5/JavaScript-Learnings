@@ -1,0 +1,5 @@
+This is a JS program to check-----
+	1. greater than (>)
+	3. equal to (=)
+	2. lesser than (<)
+between two numbers.
