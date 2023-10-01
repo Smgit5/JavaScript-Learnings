@@ -1,4 +1,4 @@
-// Check age using Conditional (Ternary) operaton instead of IF-ELSE
+// Check age using Conditional (Ternary) operator instead of IF-ELSE
 
 function VoteAge(){
     let x = prompt("Tell me your Age (in years)", "example: 18");
